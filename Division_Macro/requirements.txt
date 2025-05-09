@@ -1,0 +1,7 @@
+vgamepad
+pyautogui
+mss
+numpy
+opencv-python
+keyboard
+win10toast-click
